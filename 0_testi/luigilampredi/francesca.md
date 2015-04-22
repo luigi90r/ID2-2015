@@ -22,6 +22,7 @@ Trovo interessante la prima data viz perché ricorda la mappa di una metropolita
 
 ###Esempi di dataviz
 
+
 ![Alt Text](http://i.imgur.com/1gYfPyB.jpg)
 
 ![Alt Text](http://i.imgur.com/7RoWZ7O.jpg)
