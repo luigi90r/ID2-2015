@@ -1,7 +1,7 @@
 ##I'm (not) there
 ####by Francesca Guzzini
 
-###Abstact
+###Abstract
 Being someone has several meanings, identity and place too. 
 This project analyse the multiple identities, the physical and virtual structure which supports them and the relationship which occur between what is inside and/or what is outside of a restrict community such as the UniRSM. 
 Somehow, members from this community are travelers and exchange information among them and with the world outside. This happens both virtually and physically even though Saint Marino is well known for being one of the smallest nation in the world. Even its geographical location, upon the Titano, suggests that spreading to the rest of the world would be difficult. It ain't.
