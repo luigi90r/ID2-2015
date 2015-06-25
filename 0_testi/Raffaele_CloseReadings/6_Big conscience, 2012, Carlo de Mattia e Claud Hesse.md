@@ -29,5 +29,3 @@ La forma della rete neuronale in resina siliconica è stata prima progettata tra
 ![Alt text] (http://www.carlodemattia.it/public/files/images/IMG_2209.JPG)
 ![Alt text] (http://www.carlodemattia.it/public/files/images/DSC01324.JPG)
 
-
-##What if
