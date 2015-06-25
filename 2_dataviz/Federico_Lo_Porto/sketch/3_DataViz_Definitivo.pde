@@ -23,6 +23,12 @@ The MIT License (MIT)
  la differenza tra l'ossigeno esterno ed interno e dell'anidride carbonica esterna ed
  interna, crendo la metafora del respiro umano. I dati dell'ossigeno corisponderanno
  alla fase d'inspirazione e quelli dell'anidride carbonica alla fase di espirazione.
+ 
+Il movimento, ispirato allo skecth Breathe sviluppato da Daniel Shiffman, sfrutta
+l’onda sinusoidale del seno per l’ossigeno e del coseno per l’anidride carbonica, così da alternare
+i due movimenti come le fasi della respirazione.
+Breathe, Daniel Shiffman:
+https://github.com/shiffman/LearningProcessing/tree/master/chp13_mathematics/exercise_13_07_breathing
  */
 
 import controlP5.*;
