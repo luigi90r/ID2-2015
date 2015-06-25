@@ -1,9 +1,17 @@
 # I'm (not) there
 
 ###Abstract
-Being someone has several meanings, identity and travel too. This project analyses the digital dualism under the point of view of an oblivious community of travelers, that everyday escapes from its geographical isolation to seek information. Let the journey of these unique identities begin towards multiple destinations, in a never ending switch from physical to virtual.
+Being someone has several meanings, identity and travel too. This project analyses the digital dualism under the point of view of an oblivious community of travelers, that everyday escapes from its geographical isolation to look for information. Let the journey of these unique identities begin towards multiple destinations, in a never ending switch from physical to virtual.
 
 ###Emotional Images
+
+![](https://github.com/fraguz/ID2-2015/blob/1bd50c8f394b0079e48c327ca56d3e4fa1cd1f15/3_dataphys/Francesca/1.png?raw=true)
+
+![](https://github.com/fraguz/ID2-2015/blob/3ff739e296bba919ffa3a55dc2a48290deec2350/3_dataphys/Francesca/2.png?raw=true)
+
+![](https://raw.githubusercontent.com/fraguz/ID2-2015/ee79c740512d2a164cea16576fcb5193c0e11934/3_dataphys/Francesca/3.png)
+
+![](https://github.com/fraguz/ID2-2015/blob/b5c96668c383e9d0f325170d7ad3149cbf539604/3_dataphys/Francesca/4.png?raw=true)
 
 ###References
 
