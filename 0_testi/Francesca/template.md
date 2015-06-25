@@ -30,7 +30,7 @@ testo testo
 testo testo
 
 link a [nome link] (url link):
-_testo in corsivo_
+"_testo in corsivo_"
 
 #####About the artists
 testo testo
@@ -47,7 +47,7 @@ testo testo
 
 ![] (immagine)
 
-esto testo
+testo testo
 
 #####titolo, autore, anno
 
@@ -60,15 +60,17 @@ testo testo
 ![] (immagine)
 
 testo testo
+**testo in grassetto**
 
 
 ###2 - What it means
 
-_testo in corsivo_
+"_testo in corsivo_"
 testo testo
 
 #####Source of inspiration
-testo testo link [nome link] (url link)
+testo testo 
+link [nome link] (url link)
 
 ![] (immagine)
 
