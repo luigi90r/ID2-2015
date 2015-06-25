@@ -31,4 +31,8 @@ Le sfere che compongono l'installazione accompagnano la musica illuminandosi o s
 ![Alt text] (http://www.philippemorvan.com/img/cosmogole-03.jpg)
 ![Alt text] (http://www.philippemorvan.com/img/cosmogole-08.jpg)
 
+Altri progetti simili, di illuminazione in movimento, presi come ispirazione:
+* [kinetic lights_1](https://www.youtube.com/watch?v=uyvGrNDeO3o)
+* [kinetic lights_2](https://vimeo.com/74538932)
+
 ##What if
