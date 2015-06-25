@@ -14,4 +14,4 @@ Thee process is written in the traffic log: my virtual identity is represented b
  192.168.25.63 street and, in order to get out of Saint Marino and begin my journey I must cross the borders, my private IP is translated into a public one thanks to the NAT address, the Network Address Translation, which makes me reach my destination, the destination IP address, in a certain time, the Elapsed time.
 
 ###Actual dataset
-Narrowing the dataset for a faster prototyping, I kept the source and destination IP address, meaningful data to describe a journey. 
+Narrowing the dataset for a faster prototyping, I kept the source and the destination IP address, meaningful data to describe a journey. 
