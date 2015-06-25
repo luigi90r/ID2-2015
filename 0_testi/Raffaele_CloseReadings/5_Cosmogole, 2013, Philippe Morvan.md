@@ -2,6 +2,8 @@
 
 ##What it is
 
+[Cosmogole](http://www.philippemorvan.com/cosmogole.html)
+
 ![Alt text] (http://www.philippemorvan.com/img/cosmogole-06.jpg)
 
 Cosmogole è un'installazione sonora e luminosa progettata da Philippe Morvan; essa è stata riproposta in più città nel corso degli anni: dal 2011 ad oggi è stata esposta a Lione, Amiens, Helsinki, Leipzig e Gerusalemme. Questa opera è un'orchestra luminosa che unisce l'illuminazione alle note musicali per creare un'esperienza da vivere sul luogo in prima persona. La sfera centrale è circondata da un tappeto di led e da una moltitudine di sfere luminose, sollevate dal terreno, disposte su una estesa superficie circolare. Anche altri progetti dell'artista utilizzano forme circolari o sferiche ma soprattutto basano la loro forza comunicativa sull'utilizzo dell'illuminazione:
