@@ -1,16 +1,16 @@
-###I'm (not) there _(work in progress)_
+###I'm (not) there
 #####by Francesca Guzzini
 
 ####Abstact
 Being someone has several meanings, identity and place too. 
 This project analyse the multiple identities, the physical and virtual structure which supports them and the relationship which occur between what is inside and/or what is outside of a restrict community such as the UniRSM. 
-Somehow, members from this community are travelers and exchange information between them and the world outside. This happens both virtually and physically even thought Saint Marino is well known for being one of the smallest nation in the world. Even its geographical location, upon the Titano, suggests that spreading to the rest of the world would be difficult. _(work in progress)_
+Somehow, members from this community are travelers and exchange information between them and the world outside. This happens both virtually and physically even thought Saint Marino is well known for being one of the smallest nation in the world. Even its geographical location, upon the Titano, suggests that spreading to the rest of the world would be difficult. 
 
 ####Concept
 Each one from the UniRSM community has the potential to spread his identity all over the world and bring there the identity of the community. Have you ever thought about this in this way? 
 Everyday we built a path of our travel, phisically and virtually.
 The IP address which has given to my personal internet connection every eight hours represent my virtual myself. From the moment I start to navigate, this does not remain only a bunch of bytes in a virtual domain but somehow my virtual identity is transpose to a physical domain, the one of server which host my virtual myself.
- _(work in progress)_
+
 
 ![] (https://eeella.bl3302.livefilestore.com/y2p2iafmC_DRKQH9TZWCzEXWJpfC3Y_ETz9u78sBW0js7mwp74744T7iis03aJIGIQZJssIOgouet7X2zjG7DKWQQAk7ZvcpKL_nCGVJItAQCCs8Ox6088Ebez5QWT7SQ-f7Baeu3ZHHgTMHxoxVE7BkahnN2K5pCTdbJywDdFWmbo/IMG_20150423_040423.jpg)
 
