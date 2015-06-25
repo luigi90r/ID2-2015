@@ -38,3 +38,5 @@ Altri progetti simili, di illuminazione in movimento, presi come ispirazione:
 * [kinetic lights_2](https://vimeo.com/74538932)
 
 ##What if
+Sarebbe interessante provare ad animare l'installazione dando un significato a questo movimento o semplicemente tarandolo, anch'esso, in base alla musica, forse questa però è un'idea derivata dalla struttura della mia installazione finale. Un'alternativa interessante sarebbe quella di aggiungere una componente di interazione fisica con il pubblico consentendo magari di predisporre le sfere in formazioni decise dallo stesso. 
+Si potrebbe pensare anche di capovolgere il funzionamento e di generare musica in base a come si accendono le sfere luminose; in questo caso sempre un gruppo di osservatori o di performer potrebbe "suonare" le sfere che si illuminerebbero al tatto e andrebbero a generare i diversi suoni.
