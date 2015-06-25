@@ -48,6 +48,11 @@ Silsel is an interactive art piece: viewers could contribute their own messages 
 
 As big data has infiltrated our everyday lives, Lev Manovich and his collaborators have explored the data of everyday life as a window on social transformation. The Exceptional and the Everyday: 144 Hours in Kiev is a portrait of political upheaval in the Ukraine constructed from thousands of Instagram photos taken over a six day period during the revolution in February of 2014.
 
+######J'eux, Reynald Drouhin, 2014
+
+![] (http://www.reynalddrouhin.net/wrks/wp-content/uploads/2015/01/j-eux-750x950.jpg)
+
+J’eux is both a matrix and an interface project. It is constructed on the Des Frags basis then rebuilt in the network context. J’eux regenerates the portrait of a child and using a data base which finds its roots within image search engines using the key word “portrait”. A collection of links of image files from anonymous people regenerates the portrait of a child.
 
 ###2 - What it means
 
