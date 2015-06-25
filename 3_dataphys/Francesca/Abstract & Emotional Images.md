@@ -1,7 +1,7 @@
 # I'm (not) there
 
-###Abstact
-Being someone has several meanings, identity and travel too. This project analyses the multiple identities, the physical and virtual travels of the UNIRSM university community of travelers and information exchangers. The geographical location of San Marino, upon the Titano, seems to suggest that navigate the rest of the world might be difficult. It ain't. (work in progress)
+###Abstract
+Being someone has several meanings, identity and travel too. This project analyses the digital dualism under the point of view of an oblivious community of travelers, that everyday escapes from its geographical isolation to seek information. Let the journey of these unique identities begin towards multiple destinations, in a never ending switch from physical to virtual.
 
 ###Emotional Images
 
