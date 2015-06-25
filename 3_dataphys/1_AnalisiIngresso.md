@@ -22,3 +22,4 @@ Nella zona riviste e bacheche, più larga della precedente, troviamo appese alle
 
 
 La zona ingresso dell'UNIRSM per la maggior parte della giornata è un luogo di passaggio, con maggiore affluenza nelle ore d'inizio e fine delle lezioni. Tranne in pausa pranzo quando i tavoli su cui sono esposte le riviste vengono utilizzati come tavoli da pranzo.
+
