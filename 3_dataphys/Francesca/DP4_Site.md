@@ -1,32 +1,13 @@
-![](https://github.com/fraguz/ID2-2015/blob/6a13a7bc183c89806c89300fb7ef6152fe08823f/3_dataphys/Francesca/Uni-Model.jpg?raw=true)
+#Site
 
+![](https://raw.githubusercontent.com/fraguz/ID2-2015/6a13a7bc183c89806c89300fb7ef6152fe08823f/3_dataphys/Francesca/Uni-Model.jpg)
+
+The installation has a huge scale so it was necessary a wide location. Plus, it has to be located near a wall in order to cover the mechanisms and for safety reasons. Only few places met this condition. The one I've chosen is the wall in front of the main entrance. There, it doesn't alter the fluxes and has the views from man points.
+The installation itself measures 360x180 cm and it's made of 648 foam cubes (10x10x10 cm). It is self-standing and has wheels to make the moving easier.
+ 
 ![](https://raw.githubusercontent.com/fraguz/ID2-2015/b5c96668c383e9d0f325170d7ad3149cbf539604/3_dataphys/Francesca/interior.png)
 
-La natura imponente dell’installazione reale,
-che misura 360x180 cm ed è composta da 648
-cubi di lato 10 cm, rende necessario ubicarla in
-uno spazio di ampio respiro. Inoltre, deve essere
-addossata e ad una parete esistente sia per ragioni
-formali, nascondere la parte meccanica, che di
-sicurezza, anche se l’installazione ha una propria
-struttura portante, dotata di ruote, per poterla
-spostare ed ispezionare le parti meccaniche.
-Il sito scelto è quello che ad oggi ospita un
-datato cartellone promozionale, ovvero la parete
-opposta all’entrata, nella stanza attualmente
-adibita a consultazione riviste. Qui l’installazione,
-non solo non è invasiva nello scorrimento dei
-flussi esistenti, ma soprattutto offre una visuale
-parziale già dall’esterno della porta d’ingresso,
-che diventa totale man mano che ci si avvicina.
-Come è stato sottolineato da occhi più esperti,
-se posizionata nell’area esterna dell’atrio, questa
-installazione può diventare un landmark che
-caratterizzi in modo univoco la sede universitaria e, al
-tempo stesso, showcase delle attività svolte all’interno.
-Infatti, è prevista la realizzazione di un modello
-in scala ridotta da posizionare a ridosso della
-parete opposta al portone d’ingresso, in uno
-spazio in cui non solo le persone che vivono
-l’università possono avere la completa fruizione,
-ma anche i viaggiatori che visitano San Marino.
+Another part of the installation is outside because there it can be a landmark that empathizes the presence of the UniRSM even for tourists. 
+
+![](https://raw.githubusercontent.com/fraguz/ID2-2015/69f4ed4eab42440999559f5f45a1a60935d21a81/3_dataphys/Francesca/exterior.png)
+
